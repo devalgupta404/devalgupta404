@@ -6,13 +6,13 @@
   <a href="https://github.com/devalgupta404"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" 
 
 ## About Me
 
-🔭 Currently exploring **LLVM**, **Compilers**, and **WebAssembly**
-📱 Building **Android apps** with **Kotlin**
-⚡ I enjoy learning low-level systems and writing clean code
+- Currently exploring **LLVM**, **Compilers**, and **WebAssembly**
+- Building **Android apps** with **Kotlin**
+- I enjoy learning low-level systems and writing clean code
 
 <br>
 
