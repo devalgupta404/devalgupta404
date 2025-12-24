@@ -24,9 +24,5 @@
   height="170"
 />
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=devalgupta404&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak"
-/>
 
 </div>
