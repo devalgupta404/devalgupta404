@@ -1,8 +1,4 @@
-<div align="center">
-
-  ## About Me
-
-  </div>
+## About Me
 
   - 💻 CS student who enjoys breaking and building low-level systems
   - 🏆 **Smart India Hackathon 2025 Winner** - Developed a source code obfuscation tool to prevent reverse engineering
